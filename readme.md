@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Priyansh</h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+New+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+On+Telegram+Bot+Api%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Noob+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+On+Telegram+Bot+Api%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/Hentai_Lover_Boy"><img src="https://telegra.ph//file/f7ea374d5df399d7bc290.jpg" alt="Priyansh"></a>
+  <a href="https://t.me/Hentai_Lover_Boy"><img src="https://telegra.ph/file/4037484036301238af839.jpg" alt="Priyansh"></a>
 <a href="https://telegram.me/Hentai_Lover_Boy">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
   </a>  
